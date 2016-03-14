@@ -1,5 +1,4 @@
-FROM scratch
-ADD ubuntu-trusty-core-cloudimg-amd64-root.tar.gz
+FROM ubuntu:latest
 
 # install telnet and its dependencies
 RUN apt-get update \
