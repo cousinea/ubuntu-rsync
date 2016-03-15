@@ -7,6 +7,6 @@ RUN apt-get update \
 		telnetd \
 	&& rm -r /var/lib/apt/lists/*
 
-EXPOSE 23
+# EXPOSE 23
 
 
