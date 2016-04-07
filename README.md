@@ -1,1 +1,1 @@
-# ubuntu with telnet enabled.
+# ubuntu.
